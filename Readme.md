@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [CG Artist](https://up.htmlacademy.ru/htmlcss/40/user/2528981).
-* Наставник: `Неизвестно`.
+* Студент: [Алексей Никифоров](https://up.htmlacademy.ru/htmlcss/40/user/2528981).
+* Наставник: [Олег Зайцев](https://htmlacademy.ru/profile/ozi).
 
 ---
 
